@@ -336,9 +336,9 @@ flowchart LR
 
 ## Contact
 
-**LinkedIn:** TODO
-**GitHub:** TODO
-**Email:** TODO
+**LinkedIn:** www.linkedin.com/in/siddharaj-barad-8401aa2b8
+**GitHub:** https://github.com/siddharajbarad7
+**Email:** siddharajbarad9@gmail.com 
 
 ---
 
