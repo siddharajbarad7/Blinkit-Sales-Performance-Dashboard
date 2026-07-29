@@ -1,4 +1,5 @@
-# AdventureWorks Sales & Financial Analytics Dashboard
+# Blinkit-Sales-Performance-Dashboard
+(AdventureWorks Sales & Financial Analytics Dashboard)
 
 Enterprise-grade Power BI analytics suite covering sales performance, customer behavior, product profitability, territory expansion, financial health, and salesperson productivity for the AdventureWorks business.
 
