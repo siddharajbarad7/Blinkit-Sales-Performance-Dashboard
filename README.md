@@ -4,7 +4,12 @@
 
 **An end-to-end Power BI analytics solution for sales, customer, product, territory, financial, and salesperson performance.**
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-217346?style=flat-square)](#)
+[![Git LFS](https://img.shields.io/badge/Git%20LFS-enabled-orange?style=flat-square)](#file-size--git-lfs)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](#license)
 
+</div>
 
 ---
 
